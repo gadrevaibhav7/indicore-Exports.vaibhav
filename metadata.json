@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Indicore Exports",
+  "description": "Explore the sustainable farm-to-export journey of premium Indian spices and eco-friendly areca tableware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
